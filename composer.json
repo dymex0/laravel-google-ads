@@ -35,5 +35,5 @@
         }
       }
     },
-    "minimum-stability": "dev-gt"
+    "minimum-stability": "dev-master"
 }
